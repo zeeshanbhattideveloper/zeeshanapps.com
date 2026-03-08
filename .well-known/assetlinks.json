@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zeeshanbhatti.flashlightpro",
+      "sha256_cert_fingerprints": [
+        "AC:90:0F:56:0A:CC:CB:1D:E3:41:AF:1F:B3:1C:56:43:90:A7:39:F6:DB:52:BA:94:FE:0A:B5:7F:76:A7:90:14"
+      ]
+    }
+  }
+]
